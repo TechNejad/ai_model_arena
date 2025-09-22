@@ -1,6 +1,6 @@
-# AI Model Arena (Under Construction)
+# AI Model Arena [Ideation Phase]
 
-Welcome to the AI Model Arena! This is an early-stage project to build a gamified platform for the community to rate and review AI models.
+Welcome to the AI Model Arena! This is an early-stage prototype of a gamified platform for the community to rate and review AI models.
 
 ## The Vision
 
