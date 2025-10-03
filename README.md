@@ -10,4 +10,4 @@ The goal is to create a fun, accessible space where anyone can share their opini
 
 This project is in the initial development phase. The basic front-end structure is being built, but features like user login, rating submission, and leaderboards are not yet implemented.
 
-## [Live Demo](https://technejad.github.io/ai_model_arena/)
+## [Live Demo]([https://technejad.github.io/ai_model_arena/](https://aimodelarena.netlify.app/)
